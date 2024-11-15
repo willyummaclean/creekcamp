@@ -1,0 +1,8 @@
+/Users/will/workspace/csharp/CreekRiver/obj/Debug/net8.0/CreekRiver.csproj.AssemblyReference.cache
+/Users/will/workspace/csharp/CreekRiver/obj/Debug/net8.0/CreekRiver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/will/workspace/csharp/CreekRiver/obj/Debug/net8.0/CreekRiver.AssemblyInfoInputs.cache
+/Users/will/workspace/csharp/CreekRiver/obj/Debug/net8.0/CreekRiver.AssemblyInfo.cs
+/Users/will/workspace/csharp/CreekRiver/obj/Debug/net8.0/CreekRiver.csproj.CoreCompileInputs.cache
+/Users/will/workspace/csharp/CreekRiver/obj/Debug/net8.0/CreekRiver.MvcApplicationPartsAssemblyInfo.cs
+/Users/will/workspace/csharp/CreekRiver/obj/Debug/net8.0/CreekRiver.MvcApplicationPartsAssemblyInfo.cache
+/Users/will/workspace/csharp/CreekRiver/obj/Debug/net8.0/CreekRiver.sourcelink.json
